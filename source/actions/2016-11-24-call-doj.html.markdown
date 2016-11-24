@@ -1,0 +1,13 @@
+---
+title: Call the Department of Justice
+date: 2016-11-24 22:06 UTC
+tags: politics, quick
+duration: 10 minutes
+button_text: Call 202-353-1555
+button_url: "tel:202-353-1555"
+image_url: "doj.jpg"
+image_alt: "Department of Justice logo, with an eagle and read-and-white-striped shield"
+
+---
+
+Demand that the Department of Justice [audit the federal election](http://www.inquisitr.com/3728387/electoral-college-map-results-2016-the-difference-and-feasibility-between-an-election-audit-and-election-recount/); various irregularities suggest the voting process may have been tampered with, and the results should be verified.
